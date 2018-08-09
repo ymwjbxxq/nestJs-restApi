@@ -48,6 +48,17 @@ Under .vscode folder there is "lunch.json" which contains three configurations:
 
 ---
 
+## Snippets
+
+I wrote some snippets where you can see step by step how I reached this point
+* [Setup a basic project template] (https://bitbucket.org/snippets/DanBranch/qedbGR/jetbrain-rider-typescript-configuration)
+* [Getting started with TypeScript and Nestjs] (https://bitbucket.org/snippets/DanBranch/Benara/typescript-webapi-with-nestjs-and-nodejs)
+* [Persistence in MongoDb] (https://bitbucket.org/snippets/DanBranch/yedBxn/typescript-webapi-with-nestjs-and-nodejs)
+* [Let's be SOLID with command and query pattern] (https://bitbucket.org/snippets/DanBranch/LenaxL/solid-with-typescript-webapi-with-nestjs)
+* [Final notes] (https://bitbucket.org/snippets/DanBranch/der5gn/final-notes-typescript-webapi-with-nestjs)
+
+---
+
 ## Little Note
 
 The name of the service and the rest is not the best. I have written while I was watching PeppaPig with my daughter.
