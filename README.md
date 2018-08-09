@@ -52,11 +52,11 @@ Under .vscode folder there is "lunch.json" which contains three configurations:
 
 I wrote some snippets where you can see step by step how I reached this point
 
-1. [Setup a basic project template] (https://bitbucket.org/snippets/DanBranch/qedbGR/jetbrain-rider-typescript-configuration)
-2. [Getting started with TypeScript and Nestjs] (https://bitbucket.org/snippets/DanBranch/Benara/typescript-webapi-with-nestjs-and-nodejs)
-3. [Persistence in MongoDb] (https://bitbucket.org/snippets/DanBranch/yedBxn/typescript-webapi-with-nestjs-and-nodejs)
-4. [Let's be SOLID with command and query pattern] (https://bitbucket.org/snippets/DanBranch/LenaxL/solid-with-typescript-webapi-with-nestjs)
-5. [Final notes] (https://bitbucket.org/snippets/DanBranch/der5gn/final-notes-typescript-webapi-with-nestjs)
+1. Setup a basic project template: (https://bitbucket.org/snippets/DanBranch/qedbGR/jetbrain-rider-typescript-configuration)
+2. Getting started with TypeScript and Nestjs: (https://bitbucket.org/snippets/DanBranch/Benara/typescript-webapi-with-nestjs-and-nodejs)
+3. Persistence in MongoDb: (https://bitbucket.org/snippets/DanBranch/yedBxn/typescript-webapi-with-nestjs-and-nodejs)
+4. Let's be SOLID with command and query pattern: (https://bitbucket.org/snippets/DanBranch/LenaxL/solid-with-typescript-webapi-with-nestjs)
+5. Final notes: (https://bitbucket.org/snippets/DanBranch/der5gn/final-notes-typescript-webapi-with-nestjs)
 
 ---
 
