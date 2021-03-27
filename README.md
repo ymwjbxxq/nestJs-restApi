@@ -1,7 +1,7 @@
 ## Description
 
-In this project I play around with a typical scenario that we are facing every day.
-Building a rest api. I am coming from .NET world and I am not used to the free world of Javascript where you have so many libraries to use etc so in this project I have used [TypeScript](https://www.typescriptlang.org/) and [NestJs](https://nestjs.com/) framework.
+In this project, I play around with a typical scenario that we are facing every day.
+Building a rest API. I am coming from the .NET world and I am not used to the free world of Javascript where you have so many libraries to use etc so in this project I have used [TypeScript](https://www.typescriptlang.org/) and [NestJs](https://nestjs.com/) framework.
 
 The structure of the code is easy:
 Controller -> CQS Handler -> Repo -> MongoDb
@@ -18,10 +18,10 @@ Controller -> CQS Handler -> Repo -> MongoDb
 ## MongoDb Setup
 
 1. Open VsCode
-2. Right click on "docker-compse.yml" and select "compose up"
+2. Right-click on "docker-compse.yml" and select "compose up"
 3. List the containers: "docker ps"
 4. Connect to the shell: "docker exec -it [containerID] mongo"
-5. Create the db: "use mongoTestDb"
+5. Create the DB: "use mongoTestDb"
 
 ---
 
@@ -31,7 +31,7 @@ Controller -> CQS Handler -> Repo -> MongoDb
 
 ---
 
-## Running the webapi
+## Running the web API
 
 * npm run start
 * GET  http://localhost:3000/peppa
@@ -41,7 +41,7 @@ Controller -> CQS Handler -> Repo -> MongoDb
 ---
 ## Debug
 
-Under .vscode folder there is "lunch.json" which contains three configurations:
+Under the .vscode folder there is "lunch.json" which contains three configurations:
 1. Attach the process to the NestJs that is running under http://localhost:3000
 2. Debug Jest tests.
 3. Normal debug (no need it)
